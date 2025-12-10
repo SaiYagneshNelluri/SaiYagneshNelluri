@@ -1,50 +1,67 @@
-# 👋 Hi, I’m Sai Yagnesh Nelluri
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20Build%20Secure%20Web%20Architectures&descAlignY=51&descAlign=62" width="100%"/>
+</div>
 
-**Full-Stack Developer • Problem Solver • Tech-Enthusiast**
+<h1 align="center">Hi there, I'm <a href="https://yourwebsite.com" target="_blank">Sai Yagnesh Nelluri</a> 👨‍💻🔓</h1>
+<h3 align="center">Full Stack Developer | Cyber Security Enthusiast | White Hat Hacker</h3>
 
----
-
-## 🔭 What I’m Doing  
-- 🚀 Building side-projects & experimenting with new tech.  
-- 💡 Learning and improving — always upskilling.  
-- 🔗 Contributing to open-source & collaborating with fellow developers.
-
----
-
-## 🛠️ Skills & Technologies  
-| Languages / Tools |  |  |  |
-|------------------|--|--|--|
-| **Languages** | Python | JavaScript | C / C++ |
-| **Frontend** | HTML5 | CSS3 | React / Vue |
-| **Backend** | Node.js / Express | Django / Flask | REST / GraphQL |
-| **Databases** | MySQL / PostgreSQL | MongoDB | SQLite |
-| **Dev & Tools** | Git / GitHub | Docker / Containers | Linux / Bash / CLI |
-
----
-
-## 📈 GitHub Stats  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />  
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-## 💬 What I’m Interested In  
-- AI / ML / Data-Science  
-- Cybersecurity / Ethical Hacking  
-- Embedded Systems / IoT / Hardware-Software integration  
-- Open-Source & Community Collaboration  
+### 🛡️ About Me
+
+I bridge the gap between **robust software engineering** and **offensive security**. My passion lies in building scalable web applications that are secure by design. I don't just write code; I break it to make it stronger.
+
+- 🔭 I’m currently working on **[Project Name]** (A secure fintech app/A pentesting tool).
+- 🌱 I’m currently learning **Advanced Malware Analysis** and **GraphQL Security**.
+- 👯 I’m looking to collaborate on **Open Source DevSecOps tools**.
+- 💬 Ask me about **MERN Stack, OWASP Top 10, Network Security, and Python automation.**
 
 ---
 
-## 📫 Connect with Me  
-- 📧 Email: your-email@example.com  
-- 🌐 Portfolio / Website: https://your-website.com  
-- 🌍 LinkedIn / Twitter / Other: [links]  
+### 💻 Tech Stack & Arsenal
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+**Full Stack Development**
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+**Security & Tools**
+<br>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/OWASP_ZAP-005C9C?style=for-the-badge&logo=owasp&logoColor=white" />
+
+</div>
 
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-> “Build, Learn, Repeat — The journey never ends.”  
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph"  />
+</div>
