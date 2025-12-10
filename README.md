@@ -5,7 +5,7 @@
 
 <!-- Typing hero (light background friendly colors) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=800&color=FF2D2D&center=true&vCenter=true&width=780&lines=YAGNESH+CHOWDARY;Full-Stack+Engineer+%2F+Red+Team+%E2%98%A0;I+build,+I+break,+I+rebuild" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=800&color=FF2D2D&center=true&vCenter=true&width=780&lines=SAI+YAGNESH+NELLURI;Full+Stack+Developer;Red+Team+%E2%98%A0;I+build,+I+break,+I+rebuild;+%E2%98%A0+Offensive" alt="typing" />
 </p>
 
 <!-- Matrix rain banner (light version using capsule-render gradient) -->
@@ -17,7 +17,7 @@
 
 <!-- QUICK BADGE ROW: contact + core tags -->
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:nelluriyagnesh@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/sai-yagnesh-nelluri/">
@@ -28,19 +28,36 @@
 
 ---
 
-## 🧠 About — Elite Red Team (Light Mode)
 
-I build full-stack systems and operate them like adversaries.  
-My work blends production engineering with pragmatic offense: architect, probe, exploit, and harden.
 
-- I architect resilient systems (frontend → backend → infra).  
-- I operate red-team engagements: recon, exploitation, escalation, persistence.  
-- I build tools to automate offensive workflows and defense verification.  
-- I prioritize readable, testable, and surgical code.
+## 🧠 About Me
 
-> _“Design like an engineer. Attack like a red-teamer. Ship like a pro.”_
+I’m a full-stack developer and offensive security engineer who builds with precision  
+and breaks with intention.  
+I love understanding systems so deeply that I can **create**, **exploit**,  
+and **reconstruct** them better than before.
+
+I operate at the intersection of:
+
+- ⚡ **Full-Stack Engineering**  
+- 🔥 **Red Team Operations**  
+- 🧩 **System Design & Vulnerability Research**  
+- 🐍 **Automation, Scripting & Tool Development**  
+
+I don’t just write code —  
+I **architect systems**, **stress their limits**, and **optimize their weaknesses**.
 
 ---
+
+<!-- GLITCH / HACKER QUOTE ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF0066&center=true&vCenter=true&width=800&lines=%3E+Genius+isn't+about+knowing+everything.;%3E+It's+about+seeing+what+others+can't.;%3E+And+building+what+others+won't." />
+</p>
+
+---
+
+
+
 
 ### ☠️ Tech Stack 
 
