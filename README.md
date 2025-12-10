@@ -17,7 +17,7 @@
 
 <!-- QUICK BADGE ROW: contact + core tags -->
 <p align="center">
-  <a href="mailto:nelluriyagnesh@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nelluriyagnesh@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/sai-yagnesh-nelluri/">
