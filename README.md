@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20Build%20Secure%20Web%20Architectures&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=300&section=header&text=NelsCode&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Cyber%20Security&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://yourwebsite.com" target="_blank">Your Name</a> 👨‍💻🔓</h1>
+<h1 align="center">Hi there, I'm <a href="https://theeighttimes.com" target="_blank">NelsCode</a> 👨‍💻🔓</h1>
 <h3 align="center">Full Stack Developer | Cyber Security Enthusiast | White Hat Hacker</h3>
 
 <p align="center">
@@ -12,6 +12,9 @@
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://instagram.com/nelscode">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 ---
@@ -20,10 +23,10 @@
 
 I bridge the gap between **robust software engineering** and **offensive security**. My passion lies in building scalable web applications that are secure by design. I don't just write code; I break it to make it stronger.
 
-- 🔭 I’m currently working on **[Project Name]** (A secure fintech app/A pentesting tool).
-- 🌱 I’m currently learning **Advanced Malware Analysis** and **GraphQL Security**.
+- 🔭 I’m currently working on a **Privacy-Focused Invoice Generator**.
+- 🌱 I’m currently learning **Advanced Malware Analysis** and **Quantum Computing**.
 - 👯 I’m looking to collaborate on **Open Source DevSecOps tools**.
-- 💬 Ask me about **MERN Stack, OWASP Top 10, Network Security, and Python automation.**
+- 💬 Ask me about **MERN Stack, Python Automation, and Secure Communication.**
 
 ---
 
@@ -62,6 +65,6 @@ I bridge the gap between **robust software engineering** and **offensive securit
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_USERNAME_HERE&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_USERNAME_HERE&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph" />
 </div>
