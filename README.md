@@ -16,14 +16,44 @@
 
 ---
 
-### 🛡️ About Me
+<!-- TYPING ANIMATION -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Should I Say Welcome? Offensive+Security+%2F+Red+Team;Builder+%2B+Breaker;Now Scroll Down" alt="Typing SVG" />
+</h1>
 
-I bridge the gap between **robust software engineering** and **offensive security**. My passion lies in building scalable web applications that are secure by design. I don't just write code; I break it to make it stronger.
+---
 
-- 🔭 I’m currently working on **[Project Name]** (A secure fintech app/A pentesting tool).
-- 🌱 I’m currently learning **Advanced Malware Analysis** and **GraphQL Security**.
-- 👯 I’m looking to collaborate on **Open Source DevSecOps tools**.
-- 💬 Ask me about **MERN Stack, OWASP Top 10, Network Security, and Python automation.**
+## 🧠 About Me
+
+I’m a full-stack developer and offensive security engineer who builds with precision  
+and breaks with intention.  
+I love understanding systems so deeply that I can **create**, **exploit**,  
+and **reconstruct** them better than before.
+
+I operate at the intersection of:
+
+- ⚡ **Full-Stack Engineering**  
+- 🔥 **Red Team Operations**  
+- 🧩 **System Design & Vulnerability Research**  
+- 🐍 **Automation, Scripting & Tool Development**  
+
+I don’t just write code —  
+I **architect systems**, **stress their limits**, and **optimize their weaknesses**.
+
+---
+
+<!-- GLITCH / HACKER QUOTE ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF0066&center=true&vCenter=true&width=800&lines=%3E+Genius+isn't+about+knowing+everything.;%3E+It's+about+seeing+what+others+can't.;%3E+And+building+what+others+won't." />
+</p>
+
+---
+
+<!-- HACKER WAVE ANIMATION -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00A6&height=120&section=footer"/>
+</p>
+
 
 ---
 
