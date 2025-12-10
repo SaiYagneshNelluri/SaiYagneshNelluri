@@ -1,12 +1,23 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ea&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20Build%20Secure%20Web%20Architectures&descAlignY=51&descAlign=62" width="100%"/>
-</div>
+<!-- ===========================
+     HERO: Typing + Glitch + Matrix
+     Elite Red-Team (light mode)
+   =========================== -->
 
-<h1 align="center">Hi there, I'm <a href="https://yourwebsite.com" target="_blank">Sai Yagnesh Nelluri</a> 👨‍💻🔓</h1>
-<h3 align="center">Full Stack Developer | Cyber Security Enthusiast | Red Team | Offensive Group</h3>
-
+<!-- Typing hero (light background friendly colors) -->
 <p align="center">
-  <a href="mailto:nelluriyagnesh@gmail.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=800&color=FF2D2D&center=true&vCenter=true&width=780&lines=YAGNESH+CHOWDARY;Full-Stack+Engineer+%2F+Red+Team+%E2%98%A0;I+build,+I+break,+I+rebuild" alt="typing" />
+</p>
+
+<!-- Matrix rain banner (light version using capsule-render gradient) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=ELITE+RED+TEAM&fontSize=40&color=FF0000&animation=twinkle&style=bold" alt="matrix-rain-banner" />
+</p>
+
+---
+
+<!-- QUICK BADGE ROW: contact + core tags -->
+<p align="center">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/sai-yagnesh-nelluri/">
@@ -14,50 +25,24 @@
   </a>
 </p>
 
----
-
-<!-- TYPING ANIMATION -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Should I Say Welcome?+Offensive+Security+%2F+Red+Team;Builder+%2B+Breaker;Now Scroll Down" alt="Typing SVG" />
-</h1>
 
 ---
 
-## 🧠 About Me
+## 🧠 About — Elite Red Team (Light Mode)
 
-I’m a full-stack developer and offensive security engineer who builds with precision  
-and breaks with intention.  
-I love understanding systems so deeply that I can **create**, **exploit**,  
-and **reconstruct** them better than before.
+I build full-stack systems and operate them like adversaries.  
+My work blends production engineering with pragmatic offense: architect, probe, exploit, and harden.
 
-I operate at the intersection of:
+- I architect resilient systems (frontend → backend → infra).  
+- I operate red-team engagements: recon, exploitation, escalation, persistence.  
+- I build tools to automate offensive workflows and defense verification.  
+- I prioritize readable, testable, and surgical code.
 
-- ⚡ **Full-Stack Engineering**  
-- 🔥 **Red Team Operations**  
-- 🧩 **System Design & Vulnerability Research**  
-- 🐍 **Automation, Scripting & Tool Development**  
-
-I don’t just write code —  
-I **architect systems**, **stress their limits**, and **optimize their weaknesses**.
+> _“Design like an engineer. Attack like a red-teamer. Ship like a pro.”_
 
 ---
 
-<!-- GLITCH / HACKER QUOTE ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF0066&center=true&vCenter=true&width=800&lines=%3E+Genius+isn't+about+knowing+everything.;%3E+It's+about+seeing+what+others+can't.;%3E+And+building+what+others+won't." />
-</p>
-
----
-
-<!-- HACKER WAVE ANIMATION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00A6&height=120&section=footer"/>
-</p>
-
-
----
-
-### 💻 Tech Stack & Arsenal
+### ☠️ Tech Stack 
 
 <div align="center">
 
@@ -89,9 +74,14 @@ I **architect systems**, **stress their limits**, and **optimize their weaknesse
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiYagneshNelluri&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiYagneshNelluri&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&color=882222&center=true&vCenter=true&width=900&lines=%24+ssh+yagnesh%40labs;_Connecting...;_Recon+%5B%3E%5D+Nmap+scan+running;_Payload+builder+%3A+initialised" alt="terminal-typing" />
+</p>
+
+```text
+$ // Live simulation
+$ ssh yagnesh@labs
+$ recon --targets 10.0.0.0/24
+$ exploit --auto
+$ craft --payload --lang=python3
