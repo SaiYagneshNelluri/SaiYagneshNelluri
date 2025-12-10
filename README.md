@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I’m Sai Yagnesh Nelluri
 
-<!--
-**SaiYagneshNelluri/SaiYagneshNelluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer • Problem Solver • Tech-Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I’m Doing  
+- 🚀 Building side-projects & experimenting with new tech.  
+- 💡 Learning and improving — always upskilling.  
+- 🔗 Contributing to open-source & collaborating with fellow developers.
+
+---
+
+## 🛠️ Skills & Technologies  
+| Languages / Tools |  |  |  |
+|------------------|--|--|--|
+| **Languages** | Python | JavaScript | C / C++ |
+| **Frontend** | HTML5 | CSS3 | React / Vue |
+| **Backend** | Node.js / Express | Django / Flask | REST / GraphQL |
+| **Databases** | MySQL / PostgreSQL | MongoDB | SQLite |
+| **Dev & Tools** | Git / GitHub | Docker / Containers | Linux / Bash / CLI |
+
+---
+
+## 📈 GitHub Stats  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />  
+</p>
+
+---
+
+## 💬 What I’m Interested In  
+- AI / ML / Data-Science  
+- Cybersecurity / Ethical Hacking  
+- Embedded Systems / IoT / Hardware-Software integration  
+- Open-Source & Community Collaboration  
+
+---
+
+## 📫 Connect with Me  
+- 📧 Email: your-email@example.com  
+- 🌐 Portfolio / Website: https://your-website.com  
+- 🌍 LinkedIn / Twitter / Other: [links]  
+
+---
+![visitors](https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+> “Build, Learn, Repeat — The journey never ends.”  
