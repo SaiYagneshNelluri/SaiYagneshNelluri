@@ -18,7 +18,7 @@
 
 <!-- TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Should I Say Welcome? Offensive+Security+%2F+Red+Team;Builder+%2B+Breaker;Now Scroll Down" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Should I Say Welcome?+Offensive+Security+%2F+Red+Team;Builder+%2B+Breaker;Now Scroll Down" alt="Typing SVG" />
 </h1>
 
 ---
